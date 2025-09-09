@@ -1,2 +1,1 @@
-# cspark
-lesson 2 cspark
+# My app package
