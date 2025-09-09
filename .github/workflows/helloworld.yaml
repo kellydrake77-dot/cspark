@@ -6,6 +6,3 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "Hello World from Github Actions"
-git add .
-git commit -m "hello world workflow added"
-git push --set-upstream origin lesson
